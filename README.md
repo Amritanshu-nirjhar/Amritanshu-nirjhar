@@ -143,11 +143,11 @@ Site for a Bengaluru studio building playable worlds, live in-game shows and VR 
 <!--RECENT:START-->
 | pushed | project | what it is |
 |:--|:--|:--|
-| `Nov 22` | **[mirror-city](https://github.com/Amritanshu-nirjhar/mirror-city)** | A 3D digital twin of Sumida, Tokyo, built from open public data, with flood, evacuation, transit and solar simulations · [live ↗](https://mirror-city-delta.vercel.app) |
-| `Nov 17` | **[Rover](https://github.com/Amritanshu-nirjhar/Rover)** | Explore Mars: missions, stations, a gallery and 3D models of the red planet · [live ↗](https://mars-satellites-alpha-orpin.vercel.app) |
-| `Nov 16` | **[Pergamon](https://github.com/Amritanshu-nirjhar/Pergamon)** | A scroll-driven 3D library of classic books — browse, open and read 66 public-domain classics in the browser · [live ↗](https://pergamon-beta.vercel.app) |
-| `Nov 15` | **[abandoned-but-not-forgotten](https://github.com/Amritanshu-nirjhar/abandoned-but-not-forgotten)** | Storytelling about NASA's discarded equipment on the Moon and Mars · [live ↗](https://abandoned-but-not-forgotten-neon.vercel.app) |
-| `Nov 12` | **[AirPool](https://github.com/Amritanshu-nirjhar/AirPool)** | AirPool: shared rides from Delhi Airport T3 to Gurugram. MVP site with 3D journey, matching engine, booking demo and waitlist · [live ↗](https://air-pool-eta.vercel.app) |
+| `Nov 22` | **[mirror-city](https://github.com/Amritanshu-nirjhar/mirror-city)** | A 3D digital twin of Sumida, Tokyo, built from open public data, with flood, evacuation, transit and solar simulations · [live ↗](https://mirror-city-delta.vercel.app) |
+| `Nov 17` | **[Rover](https://github.com/Amritanshu-nirjhar/Rover)** | Explore Mars: missions, stations, a gallery and 3D models of the red planet · [live ↗](https://mars-satellites-alpha-orpin.vercel.app) |
+| `Nov 16` | **[Pergamon](https://github.com/Amritanshu-nirjhar/Pergamon)** | A scroll-driven 3D library of classic books — browse, open and read 66 public-domain classics in the browser · [live ↗](https://pergamon-beta.vercel.app) |
+| `Nov 15` | **[abandoned-but-not-forgotten](https://github.com/Amritanshu-nirjhar/abandoned-but-not-forgotten)** | Storytelling about NASA's discarded equipment on the Moon and Mars · [live ↗](https://abandoned-but-not-forgotten-neon.vercel.app) |
+| `Nov 12` | **[AirPool](https://github.com/Amritanshu-nirjhar/AirPool)** | AirPool: shared rides from Delhi Airport T3 to Gurugram. MVP site with 3D journey, matching engine, booking demo and waitlist · [live ↗](https://air-pool-eta.vercel.app) |
 <!--RECENT:END-->
 
 ## 🐍 Watch the snake eat my contributions
