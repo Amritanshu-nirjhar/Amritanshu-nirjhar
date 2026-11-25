@@ -111,7 +111,7 @@ Site for a Bengaluru studio building playable worlds, live in-game shows and VR 
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amritanshu-nirjhar&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amritanshu-nirjhar&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amritanshu-nirjhar&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" />
 </p>
 <p align="center">
@@ -125,8 +125,8 @@ Site for a Bengaluru studio building playable worlds, live in-game shows and VR 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amritanshu-nirjhar/Amritanshu-nirjhar/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Amritanshu-nirjhar/Amritanshu-nirjhar/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amritanshu-nirjhar/Amritanshu-nirjhar/output/snake-dark.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/Amritanshu-nirjhar/Amritanshu-nirjhar/output/snake.svg?v=2" />
   </picture>
 </p>
 
