@@ -20,7 +20,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/3d-settings.json
-      - run: cp profile-3d-contrib/skyline.svg dist/
+      - run: sudo cp profile-3d-contrib/skyline.svg dist/
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
