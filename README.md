@@ -147,11 +147,11 @@ Site for a Bengaluru studio building playable worlds, live in-game shows and VR 
 <!--RECENT:START-->
 | pushed | project | what it is |
 |:--|:--|:--|
+| `Nov 26` | **[mirror-city](https://github.com/Amritanshu-nirjhar/mirror-city)** | A 3D digital twin of Sumida, Tokyo, built from open public data, with flood, evacuation, transit and solar simulations · [live ↗](https://mirror-city-delta.vercel.app) |
 | `Nov 25` | **[amritanshu-portfolio](https://github.com/Amritanshu-nirjhar/amritanshu-portfolio)** | My portfolio: projects, hackathon wins and MUN, with a 3D dot-text hero. Next.js + React Three Fiber · [live ↗](https://amritanshu-portfolio-beryl.vercel.app) |
 | `Nov 25` | **[lila-worlds](https://github.com/Amritanshu-nirjhar/lila-worlds)** | Studio site for Lila Worlds, a Bengaluru team building playable worlds for Fortnite, Roblox and Meta Quest. Speak to enter · [live ↗](https://lila-worlds.vercel.app) |
 | `Nov 25` | **[ZERO](https://github.com/Amritanshu-nirjhar/ZERO)** | Learn. Build. Get hired. A career platform concept: pick a role, ship real-world projects, get matched with jobs · [live ↗](https://zero-pink-sigma.vercel.app) |
 | `Nov 25` | **[Rover](https://github.com/Amritanshu-nirjhar/Rover)** | Explore Mars: missions, stations, a gallery and 3D models of the red planet · [live ↗](https://mars-satellites-alpha-orpin.vercel.app) |
-| `Nov 25` | **[Odyssey](https://github.com/Amritanshu-nirjhar/Odyssey)** | A scroll-driven 3D journey from Earth to a ray-marched black hole at Sagittarius A*, built with Three.js shaders · [live ↗](https://odyssey-sable-nine.vercel.app) |
 <!--RECENT:END-->
 
 ## 🔒 Classified: mission logs
